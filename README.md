@@ -1,16 +1,14 @@
 # responsi_124200008
 
-A new Flutter project.
+API Football World Cup 2022
 
-## Getting Started
+## Hasil Tampilan
 
-This project is a starting point for a Flutter application.
+# Halaman Home
+![Home](https://user-images.githubusercontent.com/75229721/206176951-50f4e1b0-38bc-4a26-aceb-a411d4b95cff.png)
 
-A few resources to get you started if this is your first Flutter project:
+# Halaman Detail 
+![Detail 1](https://user-images.githubusercontent.com/75229721/206176960-dd987dd2-4965-4902-b13b-04817b18e546.png)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Halaman Detail Lanjutan
+![detail 2](https://user-images.githubusercontent.com/75229721/206176967-161266a4-d102-401e-9699-5682a31d9c49.png)
